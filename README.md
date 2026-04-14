@@ -268,7 +268,7 @@ If you find this work useful for your research, please cite:
 @article{lingbot-depth2026,
   title={Masked Depth Modeling for Spatial Perception},
   author={Tan, Bin and Sun, Changjiang and Qin, Xiage and Adai, Hanat and Fu, Zelin and Zhou, Tianxiang and Zhang, Han and Xu, Yinghao and Zhu, Xing and Shen, Yujun and Xue, Nan},
-  journal={arXiv preprint arXiv:[2601.17895]},
+  journal={arXiv preprint arXiv:2601.17895},
   year={2026}
 }
 ```
