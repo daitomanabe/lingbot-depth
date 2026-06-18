@@ -29,6 +29,7 @@ Our approach refines raw sensor depth into clean, complete measurements, enablin
 
 ## News
 
+- **[2026.06.18]** Our paper has been accepted to ECCV 2026.
 - **[2026.03.31]** Our dataset for masked depth modeling is now public.
 - **[2026.02.15]** Upload LingBot-Depth-v0.5 which fixes the bug in previous version.
 
