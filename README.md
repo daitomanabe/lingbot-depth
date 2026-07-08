@@ -62,7 +62,7 @@ We provide pretrained models for different scenarios:
 ### Requirements
 
 • Python ≥ 3.9 • PyTorch ≥ 2.0.0 • CUDA-capable GPU (recommended)
-
+ 
 ### From source
 
 ```bash
